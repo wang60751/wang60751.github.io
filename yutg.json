@@ -1,0 +1,10 @@
+{
+    "project_type": "javascript",
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 90,
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+    "modules" : ["cocos2d"],
+    "jsList" : ["Ta0B0B"]
+}
